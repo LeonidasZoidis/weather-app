@@ -21,6 +21,7 @@ This Weather App fetches weather data from the [Open Meteo](https://open-meteo.c
 - Node.js and npm installed.
 
 ### Installation
+Ensure that you have Node.js and npm installed
 
 1. Clone the repository:
 
