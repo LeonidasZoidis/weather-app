@@ -12,7 +12,7 @@ This Weather App fetches weather data from the [Open Meteo](https://open-meteo.c
 - Clean and intuitive user interface.
 - Update UI icons based on weather data received. 
 
-## Demo
+## Online Demo
 
 [TBC]
 
@@ -25,5 +25,5 @@ This Weather App fetches weather data from the [Open Meteo](https://open-meteo.c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/LeonidasZoidis/weather-app.git
 # weather-app
