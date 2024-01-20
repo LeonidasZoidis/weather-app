@@ -26,4 +26,5 @@ This Weather App fetches weather data from the [Open Meteo](https://open-meteo.c
 
    ```bash
    git clone https://github.com/LeonidasZoidis/weather-app.git
-# weather-app
+2. npm install
+3. npm run dev
