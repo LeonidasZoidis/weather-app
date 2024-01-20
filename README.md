@@ -27,5 +27,15 @@ Ensure that you have Node.js and npm installed
 
    ```bash
    git clone https://github.com/LeonidasZoidis/weather-app.git
-2. npm install
-3. npm run dev
+   
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Run the development server:**
+
+    ```bash
+    npm run dev
+    ```
